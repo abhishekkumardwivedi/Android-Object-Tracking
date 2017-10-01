@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:6:22-64
+uses-feature#android.hardware.camera
+ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:8:5-10:36
+	android:required
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:10:9-33
+	android:name
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:9:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:12:9-57
+supports-screens
+ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:15:5-20:40
+	android:largeScreens
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:17:9-36
+	android:smallScreens
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:19:9-36
+	android:normalScreens
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:18:9-37
+	android:xlargeScreens
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:20:9-37
+	android:anyDensity
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:16:9-34
+application
+ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:22:5-42:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/abhishek/.android/build-cache/1644047d07c78041d2d8221903747158b6f56d81/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/abhishek/.android/build-cache/55e2ec135be4221b78dde21a8082942535cfd8d2/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/abhishek/.android/build-cache/6601cd4ecfe0567e9ed8b19ac7ddf5d9609d6744/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/abhishek/.android/build-cache/f6ee467a85fd38674378f2011d79cdac87469414/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.1.0] /home/abhishek/.android/build-cache/3d5f123307cdf81e0729f5e0dc76087138971452/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/abhishek/.android/build-cache/eaa62060b022efdb5f34b49ad639366b449fc5d0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/abhishek/.android/build-cache/8bb4da778c7255362b1908693a57c9363d456b1b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/abhishek/.android/build-cache/6b02c2cfb62f0a2efc9b295e67d087c05abacb10/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/abhishek/.android/build-cache/02f8b709755dbeb8300854a88b1c215f74959b43/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/abhishek/.android/build-cache/d380342ba1ed0cb85458d6fd909bf45c9d6fc95b/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:24:9-45
+	android:name
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:26:9-68
+activity#org.boofcv.android.DemoMain
+ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:27:9-34:20
+	android:label
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:28:13-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:32:27-74
+activity#org.boofcv.android.tracker.ObjectTrackerActivity
+ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:35:9-38:20
+	android:screenOrientation
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:37:9-46
+	android:name
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:36:9-54
+meta-data#com.google.android.gms.version
+ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:39:9-41:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/abhishek/.android/build-cache/f6ee467a85fd38674378f2011d79cdac87469414/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:41:13-66
+	android:name
+		ADDED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml:40:13-58
+uses-sdk
+INJECTED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/abhishek/.android/build-cache/1644047d07c78041d2d8221903747158b6f56d81/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/abhishek/.android/build-cache/55e2ec135be4221b78dde21a8082942535cfd8d2/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/abhishek/.android/build-cache/6601cd4ecfe0567e9ed8b19ac7ddf5d9609d6744/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/abhishek/.android/build-cache/f6ee467a85fd38674378f2011d79cdac87469414/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.1.0] /home/abhishek/.android/build-cache/3d5f123307cdf81e0729f5e0dc76087138971452/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/abhishek/.android/build-cache/eaa62060b022efdb5f34b49ad639366b449fc5d0/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/abhishek/.android/build-cache/8bb4da778c7255362b1908693a57c9363d456b1b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/abhishek/.android/build-cache/6b02c2cfb62f0a2efc9b295e67d087c05abacb10/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/abhishek/.android/build-cache/02f8b709755dbeb8300854a88b1c215f74959b43/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/abhishek/.android/build-cache/d380342ba1ed0cb85458d6fd909bf45c9d6fc95b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.1] /home/abhishek/.android/build-cache/f91628151f58741fa0743796dafb23dbcb18de94/output/AndroidManifest.xml:18:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhishek/BoofAndroidDemo/app/src/main/AndroidManifest.xml

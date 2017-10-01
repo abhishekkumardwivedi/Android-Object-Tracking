@@ -1,0 +1,121 @@
+Change Log for BoofCV Demonstration App
+
+(year)-(month)-(day)
+
+-------------------------------------------------
+Version 1.8.1
+Date: 2016-02-08
+
+- Work around so that calibration files being in old format are ignored and don't cause a crash
+
+-------------------------------------------------
+Version 1.8
+Date: 2016-02-08
+
+- Updated to BoofCV v0.26
+- Updated how square grid calibration is specified
+- Added circle asymmetric grid for calibration and fiducials
+- Added black ellipse detector
+- Added Image Classifiers
+
+-------------------------------------------------
+Version 1.7
+Date: 2016
+
+- Updated to BoofCV v0.24.1
+  * This includes a fix for inverted camera on the Nexus 5x
+
+-------------------------------------------------
+Version 1.6.1
+Date: 2015-11-18
+
+- Updated to BoofCV v0.20
+- Calibration now shows a preview of the target you're configuring in the opening dialog
+- Added calibration fiducials to fiducial menu
+- Tap fiducials and you will see binary image
+- reset button in disparity activity
+
+-------------------------------------------------
+Version 1.6
+Date: 2015-9-21
+
+- Calibration now checks to see if the target specified has a valid number of rows/columns
+  * Before it would just crash
+- Fiducials
+  * Fixed bug which caused it to run very slow.  New image and detector was declared every cycle.
+  * Can now add fiducials by taking a picture of them
+- Binary Image: Added thin operator
+- Added a slider to the blur activity
+- When not in use seekbar is dimmed for thresholding
+- Added motion detection activity
+  * With PIP mode when touched!
+- Landscape mode for fiducial help
+- Added black polygon detector
+
+-------------------------------------------------
+Version 1.5
+Date: 2014-9-23
+
+- Pushed several classes into BoofCV Android integration package
+- Added image segmentation demonstration
+- Added fiducials
+- Stereo disparity switches to disparity view after it computes the disparity
+- Added example for automatic thresholding
+
+-------------------------------------------------
+Version 1.4.1
+Date: 2014-1-17
+
+- Fixed weird flicker during enhance.
+  * It was grabbing the wrong image to process
+
+-------------------------------------------------
+Version 1.4
+Date: 2014-1-17
+
+- Added mean-shift likelihood tracker
+- Added undistort activity
+- Application can now be loaded onto Nexus 7 devices
+  * Thanks to "Member 4367060" for the fix
+- Front facing images are flipped for correct viewing
+  * Thanks to "Member 4367060" for pointing out this problem
+- Fixed bug where camera capture doesn't start again if surfaceCreated isn't called
+  * Isn't a problem under normal operation because all camera activities are changed landscape view
+  * Thanks to "Member 4367060" for pointing out this problem
+- Fixed bug where NV21 was being incorrectly converted and causing a crash for some image sizes
+  * Change occurs inside of BoofCV
+
+-------------------------------------------------
+Version 1.3
+Date: 2013-12-28
+
+- Added object tracking
+- Added image enhance
+- Added image transform
+- Added canny edge
+- Reduced number of point trackers
+
+-------------------------------------------------
+Version 1.1.1
+Date: 2012-02-20
+
+- Changed how calibration grid size is specified
+- Reduced size of calibration target dialog so that it will fit in smaller screen
+
+-------------------------------------------------
+Version 1.1
+Date: 2012-02-20
+
+- All classes at least have a high level description now
+- Buttons in DDA tracker activity are now an appropriate size
+- Fixed AndroidManifest.xml so that tablets are supported
+- Removed continuous detection of calibration targets
+- Added help for calibration
+- Colorized association window
+- Changed how threshold is computed during calibration in an attempt to make it more robust to shadows
+
+-------------------------------------------------
+Version 1.0
+Date:   2012-02-18
+
+- Initial public release on Play store

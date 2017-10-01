@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    }
+]

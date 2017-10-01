@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]

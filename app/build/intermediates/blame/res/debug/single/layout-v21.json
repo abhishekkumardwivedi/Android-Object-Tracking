@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/layout-v21/notification_action.xml"
+    }
+]

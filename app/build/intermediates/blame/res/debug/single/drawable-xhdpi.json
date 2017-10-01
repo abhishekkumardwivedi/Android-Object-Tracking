@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/abhishek/BoofAndroidDemo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_full_open_on_phone.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/home/abhishek/.android/build-cache/3848f393a44e88abdc24c8e74e22e8defe1125fa/output/res/drawable-xhdpi/common_google_signin_btn_text_dark_normal.9.png"
+    }
+]

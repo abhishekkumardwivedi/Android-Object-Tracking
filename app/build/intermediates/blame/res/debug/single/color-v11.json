@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/abhishek/BoofAndroidDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/abhishek/.android/build-cache/62cf660f03e88a6012465bca58c035060ee2cc2b/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
